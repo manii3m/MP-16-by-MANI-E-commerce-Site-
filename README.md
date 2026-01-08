@@ -1,3 +1,7 @@
+
+<img width="1845" height="917" alt="Screenshot 2026-01-08 131804" src="https://github.com/user-attachments/assets/b9705512-defb-4b7b-9fb2-b73ddaa13a49" />
+
+
 #MP-16-by-MANI
 
 This is a simple static website project created using HTML and CSS.
@@ -6,44 +10,70 @@ It contains multiple web pages such as Home, About, Product, Contact, Account, e
 📁 Project Structure
 mp-16-by-mani/
 ├── images/
+
 ├── index.html
+
 ├── about.html
+
 ├── product.html
+
 ├── contact.html
+
 ├── joinus.html
+
 ├── account.html
+
 ├── return@.html
+
 ├── style.css
+
 └── README.md
 
+
+
 🛠 Technologies Used
+
+
 
 HTML
 
 CSS
 
+
+
 🚀 How to Run
 
+
+
 Download or clone the repository:
-
 git clone https://github.com/manii3m/mp-16-by-mani.git
-
-
 Open index.html in any web browser.
+
+
+
+🔗 Live Demo: https://manii3m.github.io/MP-16-by-MANI-E-commerce-Site-/
+
+
+
+
 
 ✨ Features
 
+
+
 Multiple static pages
-
 Simple and clean layout
-
 Common website sections (Home, About, Products, Contact)
-
 Beginner-friendly project
+
+
 
 📌 Purpose
 
+
 This project is made for practice and learning basic web development using HTML and CSS.
+
+
 
 📄 License
 
