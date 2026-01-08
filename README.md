@@ -5,10 +5,12 @@
 #MP-16-by-MANI
 
 This is a simple static website project created using HTML and CSS.
+
 It contains multiple web pages such as Home, About, Product, Contact, Account, etc.
 
 📁 Project Structure
 mp-16-by-mani/
+
 ├── images/
 
 ├── index.html
@@ -46,7 +48,9 @@ CSS
 
 
 Download or clone the repository:
+
 git clone https://github.com/manii3m/mp-16-by-mani.git
+
 Open index.html in any web browser.
 
 
@@ -62,8 +66,11 @@ Open index.html in any web browser.
 
 
 Multiple static pages
+
 Simple and clean layout
+
 Common website sections (Home, About, Products, Contact)
+
 Beginner-friendly project
 
 
