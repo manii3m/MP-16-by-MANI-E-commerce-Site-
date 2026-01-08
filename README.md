@@ -1,4 +1,4 @@
-MP-16-by-MANI
+#MP-16-by-MANI
 
 This is a simple static website project created using HTML and CSS.
 It contains multiple web pages such as Home, About, Product, Contact, Account, etc.
